@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Disallow /nogooglebot/
+
+Sitemap: http://karos-koder.dk/
